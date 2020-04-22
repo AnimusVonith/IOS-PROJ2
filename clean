@@ -1,0 +1,3 @@
+#!/bin/ksh
+find /dev/shm -user "xadamc07" -delete
+killall proj2
